@@ -1,4 +1,3 @@
 # hello-world
-hello world guide assignment
 
-words have been written.
+I am editing this cuz we have to.
